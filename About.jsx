@@ -44,7 +44,7 @@ const TEAM_DATA = [
   },
   {
     name: "Prit Chadamiya",
-    role: "Director & CFO",
+    role: "MD",
     imageUrl: "https://i.pinimg.com/736x/1d/36/03/1d36037951e66042f1b379a84b07a6c3.jpg",
     description: "Financial expert and corporate director.",
     overlayColor: "rgba(200, 20, 30, 0.8)",
