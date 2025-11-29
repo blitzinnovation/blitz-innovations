@@ -357,10 +357,10 @@ export default function ContactUs() {
                   <p className="text-xs uppercase tracking-widest text-red-500 font-bold">
                     ADDRESS
                   </p>
-                  <p className="text-sm font-light">Morbi Halvad Road,</p>
-                  <p className="text-sm font-light">Mahendra Nagar,</p>
-                  <p className="text-sm font-light">Morbi - 363642</p>
-                  <p className="text-sm font-light">Gujarat, India.</p>
+                  <p className="text-sm font-light">604 ceramic empire,</p>
+                  <p className="text-sm font-light">Near new Indian oil petrol pump,</p>
+                  <p className="text-sm font-light">Halvad ghuntu road, Mahendranagar chokdi,</p>
+                  <p className="text-sm font-light"> morbi -363642 Gujarat, India.</p>
                 </motion.div>
 
                 <motion.div variants={itemVariants} className="space-y-3">
